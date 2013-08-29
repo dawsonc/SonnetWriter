@@ -17,7 +17,7 @@ Check out my article on this program [here](http://cdawson.net/blog/2013/08/28/w
 Don't care about the explanation and just want to run it?
 ---------------------------------------------------------
 
-The default paramenters rankCutoff and desiredLength (explained in the *explanation*, COUGH COUGH) should be good, so just run that bad boy. Watch the console for your new piece of literary history!
+The default paramenters rankCutoff and desiredLength (explained in the *explanation*, COUGH COUGH) should be good, so just run that bad boy. Watch the console for your new piece of literary history and let hilarity ensue!
 
 
 License
